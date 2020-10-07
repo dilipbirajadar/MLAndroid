@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698438421694",
+    "firebase_url": "https://mlproject-7d36f.firebaseio.com",
+    "project_id": "mlproject-7d36f",
+    "storage_bucket": "mlproject-7d36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698438421694:android:8c0480a9538bc8376e22ef",
+        "android_client_info": {
+          "package_name": "com.dilip.recognizetextandfacial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698438421694-uon58vtctmuvpjipqfu2d12nud0fcdep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChkiMTdi1stWKkQvW_GX07Ad-eqAiUVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698438421694-uon58vtctmuvpjipqfu2d12nud0fcdep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
